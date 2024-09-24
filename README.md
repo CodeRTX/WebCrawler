@@ -8,7 +8,6 @@ A simple web crawler built using Node.js, Axios, and Cheerio.
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -38,9 +37,9 @@ The crawler will start from the URL specified in the `startUrl` variable and wil
 
 ## Configuration
 
-You can configure the following variables in the index.js file:
-* startUrl: The URL to start crawling from.
-* maxDepth: The maximum depth to crawl.
+You can configure the following variables in the `index.js` file:
+* `startUrl`: The URL to start crawling from.
+* `maxDepth`: The maximum depth to crawl.
 
 ## Contributing
 
