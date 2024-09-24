@@ -33,7 +33,7 @@ To start the web crawler, run the following command:
 node index.js
 ```
 
-The crawler will start from the URL specified in the startUrl variable and will crawl up to the depth specified in the maxDepth variable. The results will be saved in results.json.
+The crawler will start from the URL specified in the `startUrl` variable and will crawl up to the depth specified in the `maxDepth` variable. The results will be saved in `results.json`.
 
 
 ## Configuration
