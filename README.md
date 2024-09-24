@@ -39,8 +39,8 @@ The crawler will start from the URL specified in the startUrl variable and will 
 ## Configuration
 
 You can configure the following variables in the index.js file:
-*startUrl: The URL to start crawling from.
-*maxDepth: The maximum depth to crawl.
+* startUrl: The URL to start crawling from.
+* maxDepth: The maximum depth to crawl.
 
 ## Contributing
 
