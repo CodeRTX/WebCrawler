@@ -1,4 +1,4 @@
-Summary: 
+* Summary *: 
 
 The script starts by loading any existing results from a JSON file. It then defines a recursive `crawl` function that fetches a web page, extracts links, and recursively crawls those links up to a specified depth. A delay of 1 second is added between requests to avoid overwhelming the server. The results are saved to a JSON file after the crawling is complete. The script begins crawling from a specified start URL with a maximum depth of 2.
 
